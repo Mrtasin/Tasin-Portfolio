@@ -2,18 +2,15 @@
 
 ---
 
-## 🔧 Technical Skills
-
-
----
-
 ## 🚀 My Projects
 
----
-
-## 📜 Certifications
 
 ---
+
+## 🔧 Technical Skills
+
+---
+
 
 ## 🎓 Education
 
