@@ -2,7 +2,7 @@
 
 ---
 
-## 🚀 My Projects
+## 🚀 Projects
 
 
 ---
